@@ -7,15 +7,17 @@
 .ipynb_checkpoints
 __pycache__/*
 
-2-Data Analysis/6-SQL!!!_orig/*
+# 2-Data Analysis/6-SQL!!!_orig/*
 
 3-Machine Learning/4-Deep Learning/1-Intro Deep Learning/my_logs/*
 3-Machine Learning/4-Deep Learning/4-Embeddings y secuencias/logs/*
 
 3-Machine Learning/MLFlow/Taller/mlruns*
-3-Machine Learning/MLFlow/*
-3-Machine Learning/4-Deep Learning/1-Intro Deep Learning/structured_data_regressor/*
+# 3-Machine Learning/MLFlow/*
+# 3-Machine Learning/4-Deep Learning/1-Intro Deep Learning/structured_data_regressor/*
 
-3-Machine Learning/4-Deep Learning/4-Embeddings y secuencias/*
+# 3-Machine Learning/4-Deep Learning/4-Embeddings y secuencias/*
 
-4-Data Science & Business/*
+# 4-Data Science & Business/2-APIs en Flask!!!/*
+# 4-Data Science & Business/4-Big Data/*
+# 4-Data Science & Business/proyectos/*
